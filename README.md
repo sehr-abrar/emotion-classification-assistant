@@ -49,8 +49,8 @@ Three models were evaluated:
 ## Repository Structure
 ```
 ├─ docs/
-│ ├─ project_report.pdf
-│ ├─ presentation.pdf
+│ ├─ report.pdf
+│ ├─ presentation.txt
 │ └─ notebook.ipynb
 ├─ data/
 │ ├─ goemotions_1.csv
